@@ -1,2 +1,15 @@
-# APP-Practicals
-This repository includes Advanced Python Programming practicals designed according to the university syllabus. It focuses on hands-on implementation of advanced Python concepts including OOP, file handling, exception handling, modules, and built-in functions for better conceptual clarity and coding skills.
+# Advanced Python Programming Practicals
+
+This repository contains practical programs for the Advanced Python Programming subject.
+
+## Topics Covered
+- Functions and Modules
+- File Handling
+- Exception Handling
+- Object-Oriented Programming
+- Arrays and Data Processing
+- Creating GUI
+- Date&Time Application 
+
+## Purpose
+To gain hands-on experience with advanced Python concepts as part of academic laboratory work.
